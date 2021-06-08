@@ -10,7 +10,7 @@ library(clusterProfiler)
 
 ###
 
-NAME <- 'mouseZ-DNA1'
+NAME <- 'H3K4me3_CH12.ZDNA.intersect'
 BED_FN <- paste0(DATA_DIR, NAME, '.bed')
 
 ###
