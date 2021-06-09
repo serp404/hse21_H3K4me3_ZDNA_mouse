@@ -43,23 +43,23 @@
 ![alt text](https://github.com/serp404/hse21_H3K4me3_ZDNA_mouse/blob/88c21dc512e50a00288691f913d95fd7d047dcd5/results/png_copies/chip_seeker.H3K4me3_CH12.ZDNA.intersect.annopie.pdf.png-1.png)
 
 
-### Визуализация исходных участков ДНК и пересечения с гистоновой меткой в Genome Browser:
-Пересечение на chr16 примерно: 30,388,400 - 30,388,800
+## Визуализация исходных участков ДНК и пересечения с гистоновой меткой в Genome Browser
+
+### Пересечение на chr16 примерно: 30,388,400 - 30,388,800
 ![alt text](https://github.com/serp404/hse21_H3K4me3_ZDNA_mouse/blob/0fed49e02c62e42f8f7b62d436cf5b0f5d34aa49/results/ucsc_intersect1.png)
 
-Пересечение на chr16 примерно: 20,621,250 - 20,621,600
+### Пересечение на chr16 примерно: 20,621,250 - 20,621,600
 ![alt text](https://github.com/serp404/hse21_H3K4me3_ZDNA_mouse/blob/0fed49e02c62e42f8f7b62d436cf5b0f5d34aa49/results/ucsc_intersect2.png)
 
-### Ассоциация пересечений с генами:
+## Ассоциация пересечений с генами
 Количество пиков, которые удалось проассоциировать: 669
 
 Количество уникальных генов: 604
 
-### GO анализ
+## GO анализ
 
-Общая информация
+### Общая информация:
+![alt text](https://github.com/serp404/hse21_H3K4me3_ZDNA_mouse/blob/b6b511ce03f0348dd50d832246d3c7a04da3a6f1/results/go_results.png)
 
-![alt text](...)
-
-Наиболее важные категории
-![alt text](...)
+### Наиболее важные категории:
+![alt text](https://github.com/serp404/hse21_H3K4me3_ZDNA_mouse/blob/b6b511ce03f0348dd50d832246d3c7a04da3a6f1/results/go_smallest.png)
