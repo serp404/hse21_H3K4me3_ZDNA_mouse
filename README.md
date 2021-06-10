@@ -63,3 +63,24 @@
 
 ### Наиболее важные категории:
 ![alt text](https://github.com/serp404/hse21_H3K4me3_ZDNA_mouse/blob/b6b511ce03f0348dd50d832246d3c7a04da3a6f1/results/go_smallest.png)
+
+## Использованные команды:
+**wget [link]** – скачивание файла по ссылке;
+
+**zcat [file] | cut -f1-5 > [file]** - обрезаниие первых пяти столбцов в архииве
+
+**liftOver [oldFile][map.chain][newFile][unMapped]** - конвертация координат
+
+**git clone [link]** - создание локальной версии гитхаб-репозитория
+
+**git pull** - скачивание последней версии репозитория
+
+**git add .** - добавление файла к категории отслеживания
+
+**git commit -m 'message'**  - создания коммита
+
+**git push** - отправка локальной версии репозитория на хитхаб
+
+**cat \*.filtered.bed | sort -k1,1 -k2,2n | bedtools merge > H3K4me3_H1.merge.hg19.bed** - объединение файлов и их сортировка
+
+**bedtoold intersect -a [file] -b [file]** - пересечение генов
